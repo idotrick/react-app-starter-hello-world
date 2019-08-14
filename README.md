@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is just a starter project for react.js. It will just print "Hello World" on the screen.
 
 ## Available Scripts
 
